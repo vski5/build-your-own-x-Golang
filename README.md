@@ -1,4 +1,3 @@
-**[[Submit tutorial](https://github.com/vski5/build-your-own-x-Golang/blob/master/feynmanandgopher.png]**
 
 # ![Build your own X](feynmanandgopher.png)
 

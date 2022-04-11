@@ -1,4 +1,3 @@
-
 # ![Build your own X](feynmanandgopher.png)
 
 ## Table of contents(目录)
@@ -12,12 +11,10 @@
 * [Programming Language](#jump7)
 * [Shell](#jump8)
 
-## Tutorials
+## Tutorials(教程)
 
 
 #### <span id="jump1">Build your own `BitTorrent Client`</span>
-
-<span id="jump1">BitTorrent Client</span>
 
 * [**Go**: _Building a BitTorrent client from the ground up in Go_](https://blog.jse.li/posts/torrent/)
 * 在Go中从头开始构建BitTorrent客户端
@@ -29,7 +26,7 @@
 * 在Go中构建区块链
 
 * [**Go**: _Code your own blockchain in less than 200 lines of Go_](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
-* 用少于200行Go语言代码编写自己的区块链
+* 用少于200行Go编写自己的区块链
 
 
 
@@ -52,6 +49,8 @@
 #### <span id="jump4">Build your own `Docker`</span>
 
 * [**Go**: _Build Your Own Container Using Less than 100 Lines of Go_](https://www.infoq.com/articles/build-a-container-golang)
+* 使用少于100行Go构建自己的容器(附：容器技术简介)
+
 * [**Go**: _Building a container from scratch in Go_](https://www.youtube.com/watch?v=8fi7uSYlOdc) [video]
 
 
@@ -59,13 +58,19 @@
 #### <span id="jump5">Build your own `Game`</span>
 
 * [**Go**: _Games With Go_](https://gameswithgo.org/) [video]
+* 用Go做游戏
 
 
 #### <span id="jump6">Build your own `Neural Network`</span>
 
 * [**Go**: _Build a multilayer perceptron with Golang_](https://made2591.github.io/posts/neuralnetwork)
+* 用Go构建多层感知器
+
 * [**Go**: _How to build a simple artificial neural network with Go_](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
+* 用Go构建简单的人工神经网络
+
 * [**Go**: _Building a Neural Net from Scratch in Go_](https://datadan.io/blog/neural-net-with-go)
+* 用Go从头开始构建神经网络
 
 
 
@@ -73,19 +78,23 @@
 
 
 * [**Go**: _The Super Tiny Compiler_](https://github.com/hazbo/the-super-tiny-compiler)
-* [**Go**: _Lexical Scanning in Go_](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
+* Go中的超小型编译器
 
 
 #### <span id="jump8">Build your own `Shell`</span>
 
 * [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
+* 用Go写一个简单的Shell（附：Shell介绍）
 
 
 
-#### Uncategorized
+#### Uncategorized（未分类）
 
 * [**(any)**: _From NAND to Tetris: Building a Modern Computer From First Principles_](http://nand2tetris.org/)
+* 从 与非门 到 俄罗斯方块
+
 * [**Go**, _Let's Create a Simple Load Balancer_](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
+* 用 Go 创建一个简单的负载均衡器
 
 
 ## How to contribute 

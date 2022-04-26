@@ -23,11 +23,11 @@
 
 #### <span id="jump2">Build your own `Blockchain / Cryptocurrency`</span>
 
-* [在Go中构建区块链](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
-* 在Go中构建区块链
+* [blockchain-tutorial: A step-by-step blockchain tutorial in simplified Chinese（GO中构建区块链的前置学习） ](https://github.com/liuchengxu/blockchain-tutorial)
+* [GO中构建区块链](https://github.com/liuchengxu/blockchain-tutorial/blob/master/content/part-1/basic-prototype.md)
+
 
 * [用少于200行Go编写自己的区块链](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
-* 用少于200行Go编写自己的区块链
 
 
 
@@ -91,12 +91,21 @@
 
 
 #### <span id="jump9">Build your own `Web Programming`</span>
+
+- [介绍如何使用Golang构建Web。（全本电子书，包括网站基础与数据库、cookie、安全与加密、各种协议等）](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
+
 - [Go Web 示例 - 通过示例在 Go 中学习 Web 编程 ](https://gowebexamples.com/))
 - 在 Go by Examples 中学习 Web 编程
+
 
 - [用Go创建安全服务器 ](https://austburn.me/blog/golang-server.html)
 
 - [从V0.1开始迭代基于Golang轻量级TCP并发服务器框架`zinx`](https://github.com/aceld/zinx)
+
+· [使用Golang，Angular 2和WebSocket创建实时聊天应用程序](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
+
+· [使用Gin构建 Go Web 应用程序和微服务](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
+
 
 #### Uncategorized（未分类）
 
@@ -110,6 +119,8 @@
 
 - [腾讯的Go安全指南](https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md)
 
+- [如何在 Go 中使用 Godog 进行行为驱动的开发](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go)
+
 ## How to contribute 
 * Contributions are very welcome: [Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)
 * Help me to review [pending submissions](https://github.com/danistefanovic/build-your-own-x/issues) by leaving comments and "reactions"
@@ -119,3 +130,5 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Daniel Stefanovic](http://twitter.com/danistefanovic) has waived all copyright and related or neighboring rights to this work.
+
+
